@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
-* Студент: [Ruslan Mirsaitov](https://up.htmlacademy.ru/javascript/23/user/364905).
-* Наставник: `Неизвестно`.
+- Студент: [Ruslan Mirsaitov](https://up.htmlacademy.ru/javascript/23/user/364905).
+- Наставник: [Viktor Kan](https://htmlacademy.ru/profile/viktorkan).
 
 ---
 
